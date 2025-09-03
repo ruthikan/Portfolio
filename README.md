@@ -8,12 +8,12 @@ Welcome to my personal portfolio website! This responsive, modern site showcases
 
 ## 📌 Features
 
-- 🎯 Clean, professional UI with smooth scrolling
-- 💻 Responsive design (mobile, tablet, desktop friendly)
-- 🧠 Projects with GitHub links
-- 👩‍🎓 Education and skillset highlights
-- 📫 Contact form integration
-- 🌙 Light/dark theme toggle *(optional if added)*
+- Clean, professional UI with smooth scrolling
+- Responsive design (mobile, tablet, desktop friendly)
+- Projects with GitHub links
+- Education and skillset highlights
+- Contact form integration
+- Light/dark theme toggle *(optional if added)*
 
 ---
 
