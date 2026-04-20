@@ -2,7 +2,7 @@
 
 Welcome to my personal portfolio website! This responsive, modern site showcases my projects, skills, and background in Artificial Intelligence, Machine Learning, and Software Development. It's built to reflect both creativity and professionalism.
 
-🔗 [Live Portfolio](https://ruthikan.github.io/Protfolio/)
+🔗 [Live Portfolio](https://ruthikan.github.io/Portfolio/)
 
 ---
 
