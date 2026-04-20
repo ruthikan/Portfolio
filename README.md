@@ -53,7 +53,7 @@ This portfolio is deployed using GitHub Pages.
 If you’d like to connect or collaborate:
 📧 Email: [ruthikanalajala007@gmail.com]<br>
 💼 LinkedIn: https://linkedin.com/in/ruthika-nalajala/<br>
-🧑‍💻 Portfolio: https://ruthikan.github.io/Protfolio/
+🧑‍💻 Portfolio: https://ruthikan.github.io/Portfolio/
 
 ---
 
